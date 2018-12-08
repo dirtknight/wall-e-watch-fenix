@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="75" pc="268435456" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="76" pc="268435460" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="77" pc="268435476" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="79" pc="268435567" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="80" pc="268435591" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="81" pc="268435615" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="82" pc="268435639" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="83" pc="268435669" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="84" pc="268435693" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="86" pc="268435696" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="87" pc="268435720" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="88" pc="268435750" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="89" pc="268435780" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="90" pc="268435816" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="91" pc="268435840" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="93" pc="268435843" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="94" pc="268435873" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="95" pc="268435903" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="96" pc="268435933" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="97" pc="268435969" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="98" pc="268435999" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="100" pc="268436002" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="101" pc="268436032" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="102" pc="268436056" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="103" pc="268436080" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="104" pc="268436110" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="105" pc="268436140" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="107" pc="268436143" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="108" pc="268436188" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="109" pc="268436199" symbol="drawWalk"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="113" pc="268436222" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="114" pc="268436226" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="115" pc="268436242" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="116" pc="268436253" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="117" pc="268436277" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="118" pc="268436301" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="119" pc="268436325" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="120" pc="268436349" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="121" pc="268436373" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="123" pc="268436400" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="124" pc="268436430" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="125" pc="268436454" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="126" pc="268436478" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="127" pc="268436508" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="128" pc="268436532" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="130" pc="268436562" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="131" pc="268436573" symbol="drawSuccess"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="135" pc="268436596" symbol="drawWalle"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="136" pc="268436600" symbol="drawWalle"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="137" pc="268436617" symbol="drawWalle"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="139" pc="268436650" symbol="drawWalle"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="143" pc="268436681" symbol="drawEve"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="144" pc="268436685" symbol="drawEve"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="145" pc="268436709" symbol="drawEve"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="146" pc="268436714" symbol="drawEve"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="148" pc="268436741" symbol="drawEve"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="153" pc="268436766" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="154" pc="268436770" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="157" pc="268436788" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="160" pc="268436822" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="161" pc="268436865" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="162" pc="268436908" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="163" pc="268436951" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="164" pc="268436994" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="165" pc="268437037" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="166" pc="268437080" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="167" pc="268437123" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="168" pc="268437166" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="169" pc="268437209" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="170" pc="268437252" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="171" pc="268437295" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="172" pc="268437373" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="173" pc="268437416" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="174" pc="268437459" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="175" pc="268437502" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="176" pc="268437545" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="177" pc="268437588" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="178" pc="268437631" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="179" pc="268437674" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="183" pc="268437718" symbol="onLayout"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="189" pc="268437723" symbol="onShow"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="193" pc="268437728" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="196" pc="268437732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="197" pc="268437749" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="198" pc="268437796" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="199" pc="268437812" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="200" pc="268437828" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="201" pc="268437844" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="202" pc="268437912" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="205" pc="268437980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="206" pc="268438003" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="207" pc="268438059" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="208" pc="268438076" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="209" pc="268438092" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="210" pc="268438103" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="211" pc="268438116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="213" pc="268438132" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="214" pc="268438149" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="215" pc="268438165" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="217" pc="268438181" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="220" pc="268438239" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="221" pc="268438276" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="223" pc="268438288" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="225" pc="268438305" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="227" pc="268438321" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="234" pc="268438349" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="235" pc="268438366" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="239" pc="268438391" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="240" pc="268438422" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="243" pc="268438447" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="244" pc="268438464" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="248" pc="268438489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="251" pc="268438519" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="252" pc="268438536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="254" pc="268438576" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="256" pc="268438631" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="257" pc="268438645" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="259" pc="268438683" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="260" pc="268438719" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="261" pc="268438746" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="265" pc="268438806" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="266" pc="268438894" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="267" pc="268438930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="268" pc="268439022" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="269" pc="268439099" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="272" pc="268439246" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="273" pc="268439250" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="274" pc="268439294" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="275" pc="268439377" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="276" pc="268439454" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="283" pc="268439467" symbol="onHide"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="286" pc="268439472" symbol="animate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="288" pc="268439476" symbol="animate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="290" pc="268439492" symbol="animate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="291" pc="268439526" symbol="animate"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="295" pc="268439571" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="298" pc="268439575" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="300" pc="268439585" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="301" pc="268439619" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="305" pc="268439664" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="307" pc="268439668" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="308" pc="268439678" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="309" pc="268439691" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="311" pc="268439707" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceView.mc" lineNum="312" pc="268439718" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceApp.mc" lineNum="6" pc="268439740" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceApp.mc" lineNum="7" pc="268439744" symbol="initialize"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceApp.mc" lineNum="11" pc="268439763" symbol="onStart"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceApp.mc" lineNum="15" pc="268439768" symbol="onStop"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceApp.mc" lineNum="19" pc="268439773" symbol="getInitialView"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceApp.mc" lineNum="20" pc="268439777" symbol="getInitialView"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceApp.mc" lineNum="24" pc="268439815" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\dirtknight\\eclipse-workspace\\WALL-E Clock face\\.\\source\\WALLEClockfaceApp.mc" lineNum="25" pc="268439819" symbol="onSettingsChanged"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="8388937" symbol="day_of_week"/>
+<entry field="true" id="8389793" method="true" symbol="debug"/>
+<entry field="true" id="47" symbol="stepPercent"/>
+<entry field="true" id="45" symbol="step"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="53" method="true" symbol="drawEve"/>
+<entry field="true" id="46" symbol="goal"/>
+<entry field="true" id="29" symbol="big_font"/>
+<entry field="true" id="35" symbol="bluetooth"/>
+<entry id="8390097" method="true" symbol="onPartialUpdate"/>
+<entry field="true" id="16" symbol="bot_hand"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="8388720" symbol="hour"/>
+<entry field="true" id="25" symbol="eve"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="10" object="true" symbol="WALLEClockfaceApp"/>
+<entry field="true" id="36" symbol="current_walle_position"/>
+<entry field="true" id="18" symbol="happy_eyes"/>
+<entry field="true" id="33" symbol="canvas_dimensions"/>
+<entry field="true" id="39" symbol="date_y"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="17" symbol="eyes"/>
+<entry field="true" id="8388724" symbol="battery"/>
+<entry field="true" id="38" symbol="walle_y"/>
+<entry field="true" id="22" symbol="step_4"/>
+<entry field="true" id="21" symbol="step_3"/>
+<entry field="true" id="20" symbol="step_2"/>
+<entry field="true" id="19" symbol="step_1"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry field="true" id="26" symbol="eve_blue"/>
+<entry field="true" id="37" symbol="walle_path_squish"/>
+<entry field="true" id="43" symbol="batt_y"/>
+<entry field="true" id="44" symbol="batt_x"/>
+<entry field="true" id="14" symbol="boot"/>
+<entry id="9" object="true" symbol="WALLEClockfaceView"/>
+<entry field="true" id="27" symbol="eve_noblue"/>
+<entry field="true" id="28" symbol="LauncherIcon"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="32" symbol="cycle"/>
+<entry field="true" id="8388696" symbol="timer1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="13" symbol="body"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="41" symbol="eve_y"/>
+<entry field="true" id="42" symbol="eve_x"/>
+<entry field="true" id="40" symbol="time_y"/>
+<entry field="true" id="8388939" symbol="day"/>
+<entry field="true" id="34" symbol="frame_length"/>
+<entry field="true" id="8389338" symbol="minute"/>
+<entry field="true" id="24" symbol="top_hand"/>
+<entry id="51" method="true" symbol="drawSuccess"/>
+<entry field="true" id="8388938" symbol="month"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry field="true" id="8388912" symbol="steps"/>
+<entry field="true" id="49" symbol="month_str"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="48" symbol="animation_on"/>
+<entry id="52" method="true" symbol="drawWalle"/>
+<entry field="true" id="15" symbol="bot_hand_grab"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="30" symbol="smol_font"/>
+<entry id="50" method="true" symbol="drawWalk"/>
+<entry field="true" id="23" symbol="top_hand_grab"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8389020" method="true" symbol="animate"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436221" name="part_of_cycle" stackId="4" startPc="268435460"/>
+<entry endPc="268436222" name="dc" stackId="1" startPc="268435456"/>
+<entry endPc="268436222" name="xpos" stackId="2" startPc="268435456"/>
+<entry endPc="268436222" name="ypos" stackId="3" startPc="268435456"/>
+<entry endPc="268436595" name="part_of_cycle" stackId="4" startPc="268436226"/>
+<entry endPc="268436596" name="dc" stackId="1" startPc="268436222"/>
+<entry endPc="268436596" name="xpos" stackId="2" startPc="268436222"/>
+<entry endPc="268436596" name="ypos" stackId="3" startPc="268436222"/>
+<entry endPc="268436681" name="dc" stackId="1" startPc="268436596"/>
+<entry endPc="268436766" name="dc" stackId="1" startPc="268436681"/>
+<entry endPc="268436766" name="xpos" stackId="3" startPc="268436681"/>
+<entry endPc="268436766" name="blue_status" stackId="2" startPc="268436681"/>
+<entry endPc="268436766" name="ypos" stackId="4" startPc="268436681"/>
+<entry endPc="268437723" name="dc" stackId="1" startPc="268437718"/>
+<entry endPc="268438181" name="walking" stackId="6" startPc="268438132"/>
+<entry endPc="268438806" name="i" stackId="7" startPc="268438746"/>
+<entry endPc="268439245" name="deviceSettings" stackId="5" startPc="268437732"/>
+<entry endPc="268439245" name="batteryRaw" stackId="4" startPc="268437732"/>
+<entry endPc="268439245" name="date" stackId="3" startPc="268437732"/>
+<entry endPc="268439245" name="clockTime" stackId="2" startPc="268437732"/>
+<entry endPc="268439246" name="dc" stackId="1" startPc="268437728"/>
+<entry endPc="268439466" name="text_size" stackId="2" startPc="268439250"/>
+<entry endPc="268439467" name="dc" stackId="1" startPc="268439246"/>
+<entry endPc="268439768" name="state" stackId="1" startPc="268439763"/>
+<entry endPc="268439773" name="state" stackId="1" startPc="268439768"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="drawWalk" parent="WALLEClockfaceView">
+<param id="dc"/>
+<param id="xpos"/>
+<param id="ypos"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawSuccess" parent="WALLEClockfaceView">
+<param id="dc"/>
+<param id="xpos"/>
+<param id="ypos"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawWalle" parent="WALLEClockfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawEve" parent="WALLEClockfaceView">
+<param id="dc"/>
+<param id="blue_status"/>
+<param id="xpos"/>
+<param id="ypos"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WALLEClockfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="WALLEClockfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="WALLEClockfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="WALLEClockfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPartialUpdate" parent="WALLEClockfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="WALLEClockfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="animate" parent="WALLEClockfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="WALLEClockfaceView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="WALLEClockfaceView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WALLEClockfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="WALLEClockfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="WALLEClockfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="WALLEClockfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="WALLEClockfaceApp">
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="WALLEClockfaceApp" type="class"/>
+<dataEntry offset="245" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="324" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="491" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="522" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="569" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="600" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="631" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="670" parentId="globals" symbolId="WALLEClockfaceView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

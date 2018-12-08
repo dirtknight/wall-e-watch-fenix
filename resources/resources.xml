@@ -1,0 +1,122 @@
+<resources>
+    <strings>
+        <string id="AppName">Wall-E Watch</string>
+    </strings>
+
+    <drawables>
+        <bitmap id="LauncherIcon" filename="drawables/launcher_icon.png" dithering="none">
+            <palette>
+		    <color>5d4b4a</color>
+		    <color>7d6c5c</color>
+		    <color>1e1811</color>
+		    <color>dedede</color>
+		    <color>795471</color>
+		    <color>6c5b4c</color>
+		    <color>ca9042</color>
+		    <color>d39850</color>
+		    <color>c46a49</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="background" filename="drawables/background.png" dithering="none" />
+	<bitmap id="body" filename="drawables/pixil-layer-body.png" dithering="none">
+            <palette>
+		    <color>5d4b4a</color>
+		    <color>7d6c5c</color>
+		    <color>1e1811</color>
+		    <color>dedede</color>
+		    <color>795471</color>
+		    <color>6c5b4c</color>
+		    <color>ca9042</color>
+		    <color>d39850</color>
+		    <color>c46a49</color>
+	    </palette>
+	</bitmap>
+	<bitmap id="boot" filename="drawables/pixil-layer-boot.png" dithering="none">
+            <palette>
+		    <color>1e1811</color>
+		    <color>1e8a1e</color>
+		    <color>3d270f</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="bot_hand_grab" filename="drawables/pixil-layer-bottom_hand_grab.png" dithering="none">
+            <palette>
+		    <color>7d6c5c</color>
+		    <color>1e1811</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="bot_hand" filename="drawables/pixil-layer-bottom_hand.png" dithering="none">
+            <palette>
+		    <color>7d6c5c</color>
+		    <color>1e1811</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="eyes" filename="drawables/pixil-layer-eyes.png" dithering="none">
+            <palette>
+		    <color>1e1811</color>
+		    <color>dedede</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="happy_eyes" filename="drawables/pixil-layer-happy_eyes.png" dithering="none">
+            <palette>
+		    <color>1e1811</color>
+		    <color>dedede</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="step_1" filename="drawables/pixil-layer-step_1.png" dithering="none">
+            <palette>
+		    <color>1e1811</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="step_2" filename="drawables/pixil-layer-step_2.png" dithering="none">
+            <palette>
+		    <color>1e1811</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="step_3" filename="drawables/pixil-layer-step_3.png" dithering="none">
+            <palette>
+		    <color>1e1811</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="step_4" filename="drawables/pixil-layer-step_4.png" dithering="none">
+            <palette>
+		    <color>1e1811</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="top_hand_grab" filename="drawables/pixil-layer-top_hand_grab.png" dithering="none">
+            <palette>
+		    <color>7d6c5c</color>
+		    <color>1e1811</color>
+		    <color>dedede</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="top_hand" filename="drawables/pixil-layer-top_hand.png" dithering="none">
+            <palette>
+		    <color>7d6c5c</color>
+		    <color>1e1811</color>
+		    <color>dedede</color>
+	    </palette>
+	</bitmap>
+        <bitmap id="eve" filename="drawables/pixil-layer-eve.png" dithering="none">
+            <palette>
+                <color>000000</color>
+                <color>FFFFFF</color>
+            </palette>
+        </bitmap>
+        <bitmap id="eve_blue" filename="drawables/pixil-layer-blue.png" dithering="none">
+            <palette>
+                <color>2196f3</color>
+                <color>FFFFFF</color>
+            </palette>
+        </bitmap>
+        <bitmap id="eve_noblue" filename="drawables/pixil-layer-no_blue.png" dithering="none">
+            <palette>
+                <color>2196f3</color>
+            </palette>
+        </bitmap>
+    </drawables>
+
+    <fonts>
+        <font id="big_font" filename="fonts/48vcr.fnt" filter="0123456789:"/>
+        <font id="smol_font" filename="fonts/16vcr.fnt"/>
+    </fonts>
+</resources>
